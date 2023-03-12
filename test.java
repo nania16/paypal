@@ -1,2 +1,1 @@
 Software testing
-bug removed
